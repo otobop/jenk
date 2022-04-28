@@ -1,0 +1,2 @@
+This is my first draft pushed to github
+second line command executed with nano command
